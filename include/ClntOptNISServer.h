@@ -1,1 +1,0 @@
-../ClntOptions/ClntOptNISServer.h

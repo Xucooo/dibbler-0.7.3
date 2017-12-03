@@ -1,1 +1,0 @@
-../ClntCfgMgr/ClntCfgAddr.h

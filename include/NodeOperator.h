@@ -1,1 +1,0 @@
-../SrvCfgMgr/NodeOperator.h

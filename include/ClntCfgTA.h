@@ -1,1 +1,0 @@
-../ClntCfgMgr/ClntCfgTA.h

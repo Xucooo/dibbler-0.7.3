@@ -1,1 +1,0 @@
-../ClntTransMgr/ClntTransMgr.h

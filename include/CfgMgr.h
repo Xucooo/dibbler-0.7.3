@@ -1,1 +1,0 @@
-../CfgMgr/CfgMgr.h

@@ -1,1 +1,0 @@
-../ClntCfgMgr/ClntParser.h

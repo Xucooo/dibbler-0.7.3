@@ -1,1 +1,0 @@
-../ClntOptions/ClntOptNISPServer.h

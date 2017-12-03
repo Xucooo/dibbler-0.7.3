@@ -1,1 +1,0 @@
-../ClntOptions/ClntOptNISDomain.h

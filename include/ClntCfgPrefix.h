@@ -1,1 +1,0 @@
-../ClntCfgMgr/ClntCfgPrefix.h
